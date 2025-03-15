@@ -75,12 +75,12 @@ Pendant le Ramadan, de vastes quantités de nourriture sont gaspillées après l
 
 -**Surveillance Continue : Les capteurs mesurent en permanence les conditions de stockage des aliments.**
 
--**Seuils Définis : Lorsque le poids des aliments atteint un certain seuil et que les conditions de fraîcheur sont maintenues, une requête est automatiquement envoyée. ** 
+-**Seuils Définis : Lorsque le poids des aliments atteint un certain seuil et que les conditions de fraîcheur sont maintenues, une requête est automatiquement envoyée.** 
 
 -**Activation Automatique des Transporteurs : Un message est envoyé via MQTT pour notifier un livreur à proximité afin de récupérer la nourriture dans les meilleures conditions.**
 
 -**Optimisation Logistique : L’IA analyse les données des capteurs et ajuste les itinéraires de collecte en fonction des priorités.**
-### 4. Dashboard Web pour les Gérants des points de collecte associés comme El Hilal Al Ahmar ou les mosquées à proximité
+### 5. Dashboard Web pour les Gérants des points de collecte associés comme El Hilal Al Ahmar ou les mosquées à proximité
 
 #### Gestion et Suivi en Temps Réel
 
