@@ -1,0 +1,83 @@
+# =====================
+# General
+# =====================
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.swo
+*.bak
+*.tmp
+*.lock
+
+# =====================
+# Python / Django 
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.sqlite3
+db.sqlite3
+local_settings.py
+media/
+staticfiles/
+*.pot
+.env
+
+# =====================
+# Kotlin / Android
+# =====================
+*.apk
+*.iml
+*.gradle
+*.idea/
+*.keystore
+/local.properties
+/captures/
+output.json
+*.hprof
+.gradle/
+build/
+app/build/
+*.jar
+*.class
+*.dex
+.idea/modules.xml
+
+# =====================
+# React / JavaScript 
+# =====================
+node_modules/
+dist/
+build/
+npm-debug.log*
+yarn-error.log
+yarn-debug.log
+package-lock.json
+.vscode/
+coverage/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# =====================
+# Blockchain 
+# =====================
+artifacts/
+cache/
+node_modules/
+coverage/
+coverage.json
+dist/
+deployments/
+typechain/
+typechain-types/
+gas-report.txt
+.env
+

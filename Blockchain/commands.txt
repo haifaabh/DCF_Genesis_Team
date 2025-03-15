@@ -1,0 +1,15 @@
+#deploy the contract
+npx hardhat run scripts/deploy.js --network localhost
+
+#la console (idk ida hates7e9iha mais ig bach testi)
+npx hardhat console --network localhost
+
+#to attach the contract :
+const contract = await ethers.getContractAt("FoodTracking", "0xContract_adress");
+
+#the function of the contract :
+await contract.pledgeFood("Rice", "50kg"); //example
+await contract.getDonations(); //all the donations
+await contract.FulfillFood(id) //make the donation with the id id fulfilled
+
+#to have the contract adress : 3lia hh
