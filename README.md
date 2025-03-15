@@ -69,17 +69,17 @@ Pendant le Ramadan, de vastes quantités de nourriture sont gaspillées après l
   - **Navigation Intuitive :** Conçue pour être facile d’utilisation par tous, même pour les utilisateurs peu familiarisés avec les technologies modernes.
 
 ---
-3. Intégration IoT : Surveillance et Automatisation
+### 4. Intégration IoT : Surveillance et Automatisation
 
-Afin de garantir la fraîcheur des aliments collectés, Qoffa intègre un circuit IoT basé sur des capteurs d’humidité, de température et de poids. Ce système fonctionne comme suit :
+**Afin de garantir la fraîcheur des aliments collectés, Qoffa intègre un circuit IoT basé sur des capteurs d’humidité, de température et de poids. Ce système fonctionne comme suit :**
 
-Surveillance Continue : Les capteurs mesurent en permanence les conditions de stockage des aliments.
+**Surveillance Continue : Les capteurs mesurent en permanence les conditions de stockage des aliments.**
 
-Seuils Définis : Lorsque le poids des aliments atteint un certain seuil et que les conditions de fraîcheur sont maintenues, une requête est automatiquement envoyée.
+**Seuils Définis : Lorsque le poids des aliments atteint un certain seuil et que les conditions de fraîcheur sont maintenues, une requête est automatiquement envoyée. ** 
 
-Activation Automatique des Transporteurs : Un message est envoyé via MQTT pour notifier un livreur à proximité afin de récupérer la nourriture dans les meilleures conditions.
+**Activation Automatique des Transporteurs : Un message est envoyé via MQTT pour notifier un livreur à proximité afin de récupérer la nourriture dans les meilleures conditions.**
 
-Optimisation Logistique : L’IA analyse les données des capteurs et ajuste les itinéraires de collecte en fonction des priorités.
+**Optimisation Logistique : L’IA analyse les données des capteurs et ajuste les itinéraires de collecte en fonction des priorités.**
 ### 4. Dashboard Web pour les Gérants des points de collecte associés comme El Hilal Al Ahmar ou les mosquées à proximité
 
 #### Gestion et Suivi en Temps Réel
