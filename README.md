@@ -69,7 +69,7 @@ Pendant le Ramadan, de vastes quantités de nourriture sont gaspillées après l
   - **Navigation Intuitive :** Conçue pour être facile d’utilisation par tous, même pour les utilisateurs peu familiarisés avec les technologies modernes.
 
 ---
-### 4. Intégration IoT : Surveillance et Automatisation
+### 4. Intégration IoT : Surveillance et Automatisation voici le circuit de simulation avec le code  https://wokwi.com/projects/425456041075770369
 
 **Afin de garantir la fraîcheur des aliments collectés, Qoffa intègre un circuit IoT basé sur des capteurs d’humidité, de température et de poids. Ce système fonctionne comme suit :**
 
