@@ -22,6 +22,6 @@ from admin_dashboard.views import *
 
 urlpatterns = [
     path('donors/', include('donors.urls')),
-    # path('volunteers/', include('volunteers.urls')),
+    path('volunteers/', include('volunteers.urls')),
     # path('admin-dashboard/', include('admin_dashboard.urls')),  
 ]
